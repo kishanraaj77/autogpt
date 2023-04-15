@@ -1,0 +1,178 @@
+S/N	Course Title	Job Role	Course Outline	List of Modules	Total Duraiton Per Module 	TSC	"Total Duration
+
+(A)
+
+(No. of Hours)"	Modualr Course Fee Per Pax ($)	"Full Course Fee
+Per Pax
+(B)
+
+($) "	"Proposed Annual 
+Training Place
+(D)"	CPE Approval 	CPE Changes to be done 			EL Async	FC Sync	Assignment Sync	PM Sync	PI Async
+												Course Name 	Module Name 	Duration 	Async	Sync	Sync	Sync	Async
+1	Advanced Certificate in Software Development  	"Job role - Application Analyst
+Application Developer, UI/UX Designer, Web Developer"	"The curriculum is designed to help the learners to conceptualize the projects to meet the business requirements, plan the roadmap for development,  and build the project to fulfill the needs. The course focuses on the core skills needed to build full-stack web applications, including object-oriented programming concepts, web application development techniques, software methodologies, and frameworks to meet modern business requirements.   
+
+The course enables the learners to design creative user interfaces with enhanced user experience by adopting a human-centric design thinking process and building full-stack web applications by leveraging JavaScript libraries like React and frameworks like Angular. Also, they learn to manage information using relational and non-relational databases.
+
+Aside from technical capabilities, the course equips them with the creative thinking abilities needed to design the user interface, observe users' behaviour, analyze their feedback and make appropriate changes to meet the functional and design requirements. 
+
+The learner will acquire conceptual knowledge by viewing Instructional Videos and attending scheduled lectures. The learner acquires Programming skills by performing Assignments or Lab Exercises. They will be able to apply the knowledge and skills that have learned to design and develop projects by practicing modular projects and capstone projects under the guidance of subject matter experts and industry practioners."	Module 1-Front end Development 	40.5	ICT-DES-3008-1.1: User Interface Design	243	 $1,200.00 	 $7,200.00 	200	YES- Advanced Certificate in Web  Development	Yes 	Yes 	Yes 	6	9	9	6	10
+				Module 2-Programming Foundations 	40.5	ICT-DES-3005-1.1: Software Design		 $1,200.00 							6	9	9	6	10
+				Module 3-Creative UI /UX Design 	40.5	ICT-DES-3007-1.1: User Experience Design		 $1,200.00 							6	9	9	6	10
+				Module 4-Database Design 	40.5	ICT-DES-3001-1.1: Data Design		 $1,200.00 							6	9	9	6	10
+				Module 5- Web development frameworks 	40.5	ICT-DIT-3002-1.1: Applications Development		 $1,200.00 							6	9	9	6	10
+				"Module 6-Capstone Project-Software  development 
+"	40.5	"ICT-DIT-3017-1.1: Test Planning
+GSC-CTH-I002-1: Creative Thinking "		 $1,200.00 							0	0	0	18	22
+2	Advanced Certificate in Software Implementation 	"Job Role: System Analyst, Solution Architect, Solution Developer
+Project Manager, Full stack web developer "	"The curriculum is designed to help the learners to design and develop scalable applications to eliminate the pain points, promote effective collaboration among the stakeholders, and integrate an application into an organization workflow with speed and agility. Also, it enables them to test the applications and manage the problems by adopting the best practices demanded by the industry. 
+
+The course enables the learners to design and develop enterprise applications with ease by leveraging frameworks like Spring with industry-standard authentication and role-based authorization to secure the applications. It covers the construction of web apps, REST APIs, and bidirectional, event-based systems demanded by modern businesses, including version control, functional and non-functional testing, problem management, team collaboration, and decision-making skills. 
+
+Aside from technical capabilities, the course equips them with problem solving abilities needed to deliver seamlessly working business solutions,  evaluate application design, recommend frameworks, select testing techniques, analyze the root cause, and recommend a solution to meet business goals.
+
+The learner will acquire conceptual knowledge by viewing Instructional Videos and attending scheduled lectures. The learner acquires Programming skills by performing Assignments or Lab Exercises. They will be able to apply the knowledge and skills that have learned to design and develop projects by practicing modular projects and capstone projects under the guidance of subject matter experts."	Module 1-Enterprise Application Design 	40.5	ICT-DES-4006-1.1: Solution Architecture	242.5	 $1,200.00 	 $7,200.00 	150	"NO
+To be applied "	NA	NA	NA	6	9	9	6	10
+				Module 2-Enerprise Application Development 	60.5	ICT-5002-1.1: Applications Development		 $1,800.00 							6	9	12	12	21
+				Module 3-API Integration 	40.5	ICT-DIT-4003-1.1: Applications Integration		 $1,200.00 							6	9	9	6	10
+				Module 4-Application Testing & Problem Management  	40.5	ICT-DIT-4015-1.1: Software Testing		 $1,200.00 							6	9	9	6	10
+				Module 5- Capstone Project-Application implementation 	60.5	"ICT-PMT-4026-1.1: Project Management
+GSC-PRS-I002-1: Problem Solving"		 $1,800.00 							0	0	0	30	30
+3	Advanced Certificate in Data Science	"
+Job Role: Data Analyst"	"The curriculum is designed to help the learners to  gain insight into data with an intuitive interface using latest machine learning techniques to make sense of the numbers for the best decision making in any organization. The course focuses on the core skills needed to gain a solid understanding of data science and machine learning  to visualise data  , train machine learning models and deploy them on cloud  by using comprehensive suite of cloud services to handle all data science needs of an organization.        
+                                                                                                                                                            Apart from the technical skills , our course also focus on essential critical core skills where learner will be given a project to demonstrate decision making skills by leveraging on  on industry expert practitioners.
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions mentored by Industry expert practitioners  to learner apply them to real-world projects  in your workplace."	Module 1-Data Queries & Visulization 	60.5	ICT-DIT-3006-1.1: Data Visualization	242	 $3,600.00 	 $14,400.00 	200	Yes 	NO 	NO	NO	12	12	18	6	12
+				Module 2-Data science essentials 	60.5	ICT-DIT-4020-1.1: Cloud Computing  		 $3,600.00 							12	12	18	6	12
+				Module 3-Principles of machine learning 	60.5	ICT-BIN-3104-1.1: Data Analytics 		 $3,600.00 							12	12	18	6	12
+				Module 4- Captone Project-data analytics 	60.5	"ICT-DIT-3005-1.1: Data Engineering
+GSC-DCM-B002-1: Decision Making                                                                                       "		 $3,600.00 							0	0	0	36	24
+4	Advanced Certificate in System Support	"
+
+ Job role - Desktop Support  Executive,IT Support Executive, Computer systems executive"	"The curriculum is designed to help the learners to acquire the skills to solve problems and support IT Infrastructure and IT network. 
+
+The course focuses on the core skills needed to support IT Infrastructure to provide effective support solution on day to day business requirements, setting up IP addressing, configure windows desktop with Intune, configure BitLocker and  Encrypting File Systems.
+
+The course also enables the learners to understand on key component of IT infrastructure which is Servers, Networks, and end-user desktops along with how cloud services support and manage centralised solution, monitoring and maintenance.
+
+In addition to the technical skills, the course also aims to build on the essential critical core skills such as problem solving . Learners will be demonstrating step by step approach with problem solving skill to provide quality level end-user or customer support.
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively."	Module 1-Fundamentals of server	40.5	ICT-DIT-3016-1.1: System Integration	172.5	 $1,200.00 	 $5,100.00 	300	Yes - Advanced Certificate in Infrastructure Support	Yes 	Yes 	Yes 	7	15	18	0	0
+				Module 2-Fundamentals of network	30.5	ICT-DIT-3009-1.1: Network Configuration		 $900.00 							6	12	12	0	0
+				Module 3-Install & configure operating systems	40.5	ICT-DIT-3008-1.1: Infrastructure Deployment​		 $1,200.00 							7	15	18	0	0
+				Module 4-Support & maintain Operating systems	40.5	"ICT-OUS-3007-1.1:  Infrastructure Support
+GSC-PRS-I002-1:  Problem Solving "		 $1,200.00 							7	15	18	0	0
+				Module 5- Azure fundamentals	20.5	ICT-DIT-3020-1.1: Cloud Computing 		 $600.00 							5	12	3	0	0
+5	Advanced Certificate in System Administration 	"
+Job role - IT System Administrator, IT Administrator, Cloud Administrator"	"The curriculum is designed to help the learners to acquire the skills to plan, deploy and maintain hybrid IT Infrastructure. 
+
+The course focuses on the skills such as implement and deploy complex IT Infrastructure, to setup nested server infrastructure,  setup cloud hosted IT servers, setup virtual private network annalyse and Deploy Security with in the infrastructure and performance monitoring and fine tune the service to improve fast and accurate result to achieve high productivity
+
+In addition to the technical skills, the course also aims to build on the essential critical core skills such as problem solving . Learners will be demonstrating  step by step approach with problem solving skill to provide quality system administration
+
+
+The course also enables the learners to understand on key component of strategically plan the corporate requirement. Evaluate and budget planning and deploying various types of IT Setups
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively."	Module 1- IT server administration	50.5	ICT-DIT-4008-1.1: Infrastructure Deployment	242.5	 $1,500.00 	 $7,200.00 	120	"NO
+To be applied"	NA	NA	NA	11	18	21	0	0
+				Module 2-Administer  server hybrid Infrastructure 	50.5	ICT-OUS-3009-1.1: Network Administration and Maintenance​		 $1,500.00 							11	18	21	0	0
+				Module 3-Configure server hybrid advanced services 	50.5	ICT-DIT-4016-1.1: System Integration		 $1,500.00 							11	18	21	0	0
+				Module 4-Cloud administration 	50.5	ICT-DIT-4020-1.1: Cloud Computing		 $1,500.00 							11	18	21	0	0
+				Module 5- Security administration 	40.5	"ICT-OUS-4012-1.1: Security Administration 
+GSC-PRS-I002-1:  Problem Solving "		 $1,200.00 							7	15	18	0	0
+6	Advanced Certificate in Process Automation 	"Job Role: RPA Solution executive, Business process executive
+Robotic Process Automation (RPA) consultant. "	"The curriculum is designed to help the learners perform workplace remote team collaboration and perform task management. Design and deploy document management in collaborative environment.
+
+Learners will be able to effectively digitalise, leverage the new technologies, and implement well for business efficiency and growth.
+This course is designed to provide learner with a sufficiently broad view of digitalisation possibilities and understanding to get started in a shortest timeframe. Learner will be able introduce strategic concepts and design thinking frameworks that can be applied across any identifiable business digitalisation opportunity.
+Modules will cover technologies / capabilities for
+Improving an organisation’s core business process automation and 
+Enabling, enhancing, optimizing the business decision making. 
+
+In addition to the technical skills, the course also aims to build on the essential critical core skills such as creative thinking . Learners will be demonstrating the creative thinking capapbilities in optimizing the business process automation. 
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively."	Module 1-Robotic Process Automation	60.5	ICT-DIT-3002-1.1: Application Development	181.5	 $3,000.00 	 $9,000.00 	360	Yes 	Yes 	Yes 	Yes 	12	15	15	6	12
+				Module 2-Power platform solutions	60.5	ICT-DIT-3003: Applications Integration 		 $3,000.00 							12	15	15	6	12
+				Module 3-Capstone Project -power apps	60.5	"ICT-DIT-3016-1.1: System Integration
+GSC-CTH-I002-1:  Creative Thinking"		 $3,000.00 							0	0	0	36	24
+7	Advanced Certificate in Cyber Security 	"
+
+Job Role: Application security administrator, Cloud security specialist, Cybersecurity hardware engineer, 
+IT security engineer, Information assurance analyst, Security systems administrator"	"The curriculum is designed to help the learners to acquire the skills to analyse and resolve security issues in networks and computer systems to secure an IT infrastructure. Design, develop, test and evaluate secure software. Develop policies and procedures to manage enterprise security risks.
+The course focuses on the core understanding on Security Governance, policy making decision, threat analysis on hybrid, on premise as well as cloud infrastructure. Teach how deep extensively study the security requirement and help organisation adopt security solutions to protect from security threats. Understand types of attacks, how to mitigate and resolve the security loopholes. 
+
+In addition to the technical skills, the course also aims to build on the essential critical core skills such as problem solving . Learners will be demonstrating  step by step approach with problem solving skill to provide quality security protection to the industries 
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively."	Module 1-Security fundamentals 	60.5	"ICT-OUS-4012-1.1: Security Administration 
+GSC-PRS-I002-1:  Problem Solving "	242	 $3,600.00 	 $14,400.00 	80	"NO 
+To be applied"	NA	NA	NA	12	15	15	6	12
+				Module 2-Cloud security 	60.5	ICT-DIT-4024-1.1: Network Security 		 $3,600.00 							12	15	15	6	12
+				Module 3-Security operation analysis 	60.5	ICT-SNA-4007-1.1: Cyber Risk Management 		 $3,600.00 							12	15	15	6	12
+				"Module 4-Cyber security practice
+"	60.5	ICT-OUS-4003-2.1: Cyber and Data Breach Incident Management 		 $3,600.00 							12	15	15	6	12
+8	Digital Transformation 	NA	The course helps small and medium enterprises to levergage on technology to create innovative business models, products and services while improving operational efficiency and organizational performance. Enterprises learners will be enabled with the skillset to develop action plans for their company's Digital Transformation journey.	Module 1-Digital Transformation	60.5	"ICT-SNA-3011-1.1: Emerging Technology Synthesis
+"	121	 $3,600.00 	 $7,200.00 	240	NA 	NA	NA	NA	24	18	18	0	0
+				Module 2-Capstone Project-Digital Transformation  	60.5	ICT-PIN-4016-1.1: Process Improvement and Optimisation		 $3,600.00 							0	0	0	36	24
+9	Advanced Certificate in Digital Marketing 	"
+Job Role: Digital Marketing Executive, Digital Marketing Manager"	"The curriculum is structured to help learners design and develop digital marketing campaigns across ad platforms such as Google, Facebook and Instagram. Learners will also be encouraged to tap into the best practices of content creation, curation and marketing. In addition, they will learn how to monitor and measure their digital marketing efforts using globally recognised industry standard tools such as Google Analytics. 
+
+In addition to the technical skills, the course also aims to build on the essential critical core skills as well. The course emphasizes on keeping the customer at the forefront of all strategy, planning and execution and taking a local customer centric approach while keeping in mind the global best practices.
+
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively. Learners will be involved in project implementation under the guidance of an industry expert mentor.
+
+
+
+
+"	Module 1 - Basic Digital Marketing	60.5	ICT-SNM-4008-1.1: Marketing Strategy	242	 $3,000.00 	 $12,000.00 	360	Yes 	NO 	NO	NO	18	18	24	0	0
+				Module 2 - Advanced Digital Marketing	60.5	ICT-SNM-4017-1.1: Marketing Campaign Management		 $3,000.00 							18	18	24	0	0
+				Module 3 - Content Marketing	60.5	ICT-SNM-4004-1.1: Content Strategy		 $3,000.00 							18	18	24	0	0
+				Module 4 - Capstone Project -Digital marketing 	60.5	"ICT-SNM-4006-1.1: Integrated Marketing
+GSC-CUO-B001-1: Customer Orientation"		 $3,000.00 							0	0	0	36	24
+10	Digital Sales 	"
+Job Role: Digital Sales Executives"	This course teaches the learners on how to create a sales strategy and develop a complete sales kit along with a full funnel engagement plan. Learners will be able to create customer personas and establish a unique value proposition for their products/services. They will be able to develop their sales scripts for different phases of sales cycle.	Module 1-Solution sales 	60.5	ICT-SNM-4011-1.1: Sales Strategy	121	 $3,000.00 	 $6,000.00 	100	NA 	NA	NA	NA	18	18	24	0	0
+				Module 2-Capstone Project-Digital Sales	60.5	ICT-SNM-4008-1.1: Marketing Strategy		 $3,000.00 							0	0	0	36	24
+11	Webfront solution 	"
+
+Job Role: UI/UX Analyst/Executive"	This course aims to empower learners with web design and development know-how. It imparts knowledge and skills required to create a mobile first, user-centric website using a popular content management system (CMS) called Wordpress. It enables learners with key elements, resources and tools required to develop a self-hosted website. Learners will be able to plan, design, develop, launch as well as maintain a website's functionality by installing plugins and widgets.	Module 1-Website Development	60.5	ICT-DES-4007-1.1: User Experience Design	121	 $3,000.00 	 $6,000.00 	200	NA 	NA	NA	NA	18	18	24	0	0
+				Module 2-Capstone Project-Webfront Solution 	60.5	ICT-DES-4008-1.1: User Interface Design		 $3,000.00 							0	0	0	36	24
+12	Advanced Certificate in Enterprise Applications 	Job Role: ERP Consultant 	" The curriculum is tailor made for the learners for the role of ERP consultant  which can help them gain all the skills they need to succeed in their careers  as we focus right from the basics of  ERP  – concepts, strategies, tools, features & and its application in the business   and Examine the sales, supply chain and finance business process and map with ERP system                                                                                     
+
+The course is one stop shop to Configure sales, supply chain and finance business process into ERP system to Implement the customized ERP systems to your organization 
+Apart from the technical skills , our course also focus on essential critical core skills where learner will be given a project to demonstrate transdisciplinary thinking skills by leveraging on  on industry expert practitioners.  
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively  ensure you're mastering the topics that are most relevant  where you'll  apply ERP skills to real-world projects immediately in your workplace."	Module 1-ERP Application -basic 	60.5	ICT-PMT-4001-1.1: Business Needs Analysis	242	 $3,600.00 	 $14,400.00 	80	Yes 	NO 	NO	NO	12	12	18	6	12
+				Module 2-ERP Application -intermediate	60.5	ICT-SNA-4004-1.1: Business Process Re-engineering		 $3,600.00 							12	12	18	6	12
+				Module 3-ERP Application -advanced 	60.5	ICT-BIN-4139-1.1: Business Requirements Mapping 		 $3,600.00 							12	12	18	6	12
+				Module 4-ERP Application -capstone 	60.5	"ICT-SNA-4006-1.1: Change Management 
+GSC-TRA-B002-1: Transdisciplinary Thinking
+"		 $3,600.00 							0	0	0	36	24
+13	Advanced Certificate in CRM Applications 	Job Role: CRM Consultant 	" The curriculum is designed to help the learners to Understand CRM and gain all the skills they need to succeed in their careers  as we focus right from the basics of  CRM  – concepts, strategies, tools, features & and its application in the business   and Examine the sales, supply chain and finance business process and map with ERP system                                                                                     
+
+The course also focus on  Configuring sales, supply chain and finance business process into CRM system to Implement the customized CRM systems to any organization 
+Apart from the technical skills , our course also focus on essential critical core skills where learner  will focus on sense making skills by leveraging on  on industry expert practitioners.  
+The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively  ensure you're mastering the topics that are most relevant  where you'll  apply ERP skills to real-world projects immediately in your workplace."	Module 1-Sales & marketing	60.5	ICT-MKI-4002-1.1 : Customer Behaviour Analysis 	181.5	 $3,000.00 	 $9,000.00 	120	"NO
+To be applied"	NA	NA	NA	12	12	18	6	12
+				Module 2-Customer service 	60.5	ICT-SNM-4005-1.1::  Customer Experience Management		 $3,000.00 							12	12	18	6	12
+				Module 3-Capstone Project -CRM	60.5	"ICT-MKI-4001-1.1:  Consumer Intelligence Analysis
+GSC-SMG-I002-1: Sense Making"		 $3,000.00 							0	0	0	36	24
+14	Advanced Certificate in IoT	Job Role: IoT Engineer, IoT developer 	"The internet of things (IoT) is a network of everyday objects - like household appliances, cars and other vehicles, consumer electronics and wearables - communicating with each other and collecting data. IoT connects these objects to the internet and allows them to send information to each other. Our course is designed for role of an IoT developer leveraging Azure services commonly used in an IoT solution such as IoT hub , IoT edge device management and build IoT solution on Azure portal.                                                                                                                                                                     Apart from the technical skills , our course also focus on essential critical core skills where learner will be given a project to demonstrate problem solving skills by leveraging on  on industry expert practitioners.                                                                                                                                                                                The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively.
+ "	Module 1-IoT programming	60.5	ICT-DIT-4002-1.1 : Applications Development	181.5	 $3,600.00 	 $10,800.00 	80	"NO
+To be applied"	NA	NA	NA	12	12	18	6	12
+				Module 2-IoT device management	60.5	ICT-DIT-4003-1.1: Applications Integration		 $3,600.00 							12	12	18	6	12
+				Module 3-IoT deployment 	60.5	"ICT-DIT-4008-1.1: Infrastructure Deployment
+GSC-PRS-I002-1: Problem solving "		 $3,600.00 							0	0	0	36	24
+15	Advanced Certificate in Artificial Intelligence	"
+Job Role: AI Engineer  "	"The curriculum is designed to help the learners use AI in solving specific problems, such as pattern recognition or by applying the basics of supervised and unsupervised machine learning models. This course also focuses on multiple computer vision techniques where the learner leaverage on cognitive services to analyze images and video and also learn NLP techniques to analyze and translate text and build conversational based AI applications. 
+
+Apart from the technical skills , our course also focus on essential critical core skills where learner will be given a project to demonstrate problem solving skills by leveraging on  on industry expert practitioners.      
+                                                                                                                                                                                                                                  The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively. Learners will be involved in project implementation under the guidance of an industry expert mentor. "	Module 1-Python Programming for Data Science	60.5	ICT-DIT-4005-1.1: Data Engineering	242	 $3,600.00 	 $14,400.00 	80	"NO
+To be applied"	NA	NA	NA	12	12	18	6	12
+				Module 2-Applied machine learning	60.5	ICT-DIT-4022-1.1: Computer Vision Technology 		 $3,600.00 							12	12	18	6	12
+				Module 3-Deep learning	60.5	ICT-DIT-4026-1.1: Pattern Recognition Systems 		 $3,600.00 							12	12	18	6	12
+				Module 4-Capstone project - AI 	60.5	"ICT-DIT-5029-1.1: Text Analytics and Processing
+GSC-PRS-I002-1:  Problem Solving        
+ "		 $3,600.00 							0	0	0	36	24
+16	Business Analytics  	"
+Job Role: Operational related job roles; eg Finance, Logistics, Administration, HR etc"	"The curriculum  will helps to become a Microsoft Power BI Data Analyst by learning to import data from different sources, create mashups between data sources, and prepare data for analysis. After preparing the data, the learner can find out Visualizing data and Creating Power BI dashboards based on reports and shared them to the Power BI cloud service and even consumed on mobile devices.                                                             
+                                                                                                                                                                                                                          The course comprises multiple learning components such as eLearning, flipped classes, assignments, project mentoring, and implementation sessions  to train them effectively. Learners will be involved in project implementation under the guidance of an industry expert mentor.                                                                                                                                                                            "	Module 1-Business Analytics 	60.5	ICT-DIT-3006-1.1: Data Visualisation	121	 $3,000.00 	 $6,000.00 	330	NA 	NA	NA	NA	12	12	18	6	12
+				Module 2-Capstone Project-business analytics 	60.5	 ICT-DIT-3005-1.1: Data Engineering		 $3,000.00 							0	0	0	36	24
